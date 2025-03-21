@@ -7,7 +7,7 @@ from bitmunch import BitMunch
 
 def get_args():
     parser = argparse.ArgumentParser(
-        prog="ButMunch Encoder",
+        prog="BitMunch Encoder",
         epilog="Copyright 2025 Thomas Gingele b1tc0r3@proton.me, mitch-n quarrel-most-heap@duck.com"
     )
 
