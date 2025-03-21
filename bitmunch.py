@@ -1,11 +1,12 @@
 # Copyright 2025 Thomas Gingele <b1tc0r3@proton.me>
+# Copyright 2025 mitch-n <quarrel-most-heap@duck.com>
 import random
 import string
 
 
 class BitMunch():
     """
-    Wrapper class for the Bitmunch algorithm invented my Mich.
+    Wrapper class for the Bitmunch algorithm invented my Mitch.
     """
     def __init__(self):
         self.base = "(+!+[])"
