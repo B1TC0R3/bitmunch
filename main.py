@@ -1,4 +1,5 @@
 # Copyright 2025 Thomas Gingele <b1tc0r3@proton.me>
+# Copyright 2025 mitch-n <quarrel-most-heap@duck.com>
 import argparse
 
 from bitmunch import BitMunch
