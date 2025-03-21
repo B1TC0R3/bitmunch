@@ -1,7 +1,7 @@
 # BitMunch
 
 ```
-usage: BitMunch Encoder [-h] -i INPUT [-p PADDING] [-e]
+usage: python ./main.py [-h] -i INPUT [-p PADDING] [-e]
 options:
   -h, --help            show this help message and exit
   -i, --input INPUT     The raw payload. Read from STDIN.
